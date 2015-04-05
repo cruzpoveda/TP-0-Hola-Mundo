@@ -1,6 +1,6 @@
 /* Programa Hola Mundo, muestra por pantalla el mensaje 'Hola JC Poveda'
 * Juan Cruz Poveda
-* 3/4/15
+* 03/04/15
 */
 
 #include <iostream>
