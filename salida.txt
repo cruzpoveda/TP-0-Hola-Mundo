@@ -1,3 +1,8 @@
+/* Salida del programa Hola Mundo, muestra por pantalla el mensaje 'Hola JC Poveda'
+* Juan Cruz Poveda
+* 03/04/15
+*/
+
 Hola JC Poveda
 ------------------------------
 Process exited after 0.01386 seconds with return value 0
